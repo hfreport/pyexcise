@@ -11,11 +11,11 @@ import execjs
 # 爬取erp页面
 path = 'save.html'
 
-url = 'http://source.jd.com'
+url = 'http://source.com'
 # url = 'http://www.baidu.com'
 
-auth = {'username': 'hufeng34',
-        'password': 'Worldhf@201807'}
+auth = {'username': '',
+        'password': ''}
 
 class c1:
     hello = '12'
